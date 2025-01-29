@@ -1,4 +1,4 @@
-```markdown
+
 # Simple Java Calculator
 
 A basic command-line calculator application written in Java that performs simple arithmetic operations.
@@ -45,10 +45,3 @@ java Main
 - Only works with integer numbers
 - Performs single calculations per run
 - Basic arithmetic operations only
-
-## Future Improvements
-- Add support for decimal numbers
-- Include more operations (power, modulus, etc.)
-- Add continuous calculation mode
-- Implement input validation for non-numeric values
-```
